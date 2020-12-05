@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golf, Volleyball and Cricket
 - 📫 How to reach me: anirudh.duggal.ad.ad@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm 6'3
 -->
