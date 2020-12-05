@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a new Data Science Project
+- 🔭 I’m currently working on a Deep Learning Project with my friend
 - 🌱 I’m currently learning Statistics
 - 👯 I’m looking to collaborate on Personal Projects
 - 🤔 I’m looking for help with growing myself as a sofware engineer
