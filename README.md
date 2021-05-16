@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golf, Volleyball and Cricket
 - 📫 How to reach me: email: anirudh.duggal.ad.ad@gmail.com
 - 😄 Pronouns: he/him/his
-- Alright, time for a quick game:  
+- Alright, time for a quick game, two truths and a lie:  
  ❓ I've broken a bone 🦴 by falling off a stationary bicycle 🚲  
  ❓ I've been in a team of three where I did all the work 😫  
  ❓ I absolute despise 🤮 dark chocolate 🍫 
