@@ -4,11 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Deep Learning Project with my friend
-- 🌱 I’m currently learning Statistics
+- 🔭 I’m currently teaching myself Neural Nets and am hoping to eventually make a project with them
 - 👯 I’m looking to collaborate on Personal Projects
 - 🤔 I’m looking for help with growing myself as a sofware engineer
 - 💬 Ask me about Golf, Volleyball and Cricket
 - 📫 How to reach me: email: anirudh.duggal.ad.ad@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm 6'3
+- Alright, time for a quick game:
+    ❓ I've broken a bone 🦴 by falling off a stationary bicycle 🚲
+    ❓ I've been in a team of three where I did all the work 😫
+    ❓ I absolute despise 🤮 dark chocolate 🍫
