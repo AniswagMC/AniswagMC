@@ -8,4 +8,6 @@
 - Alright, time for a quick game, two truths and a lie:  
  ❓ I've broken a bone 🦴 by falling off a stationary bicycle 🚲  
  ❓ I've been in a team of three where I did all the work 😫  
- ❓ I absolute despise 🤮 milk chocolate 🍫 
+ ❓ I absolute despise 🤮 milk chocolate 🍫
+
+ [![Ani's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AniswagMC&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
