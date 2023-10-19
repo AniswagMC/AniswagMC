@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://aniswagmc.github.io/assets/01-Anirudh_Duggal_SWE.pdf)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://aniswagmc.github.io/assets/01-Anirudh_Duggal_SWE.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhduggal/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh.duggal.ad.ad@gmail.com)
 
